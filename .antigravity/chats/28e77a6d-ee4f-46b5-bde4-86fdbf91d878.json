@@ -4,5 +4,18 @@
   "createdAt": "2026-11-11T11:53:52.806Z",
   "filename": "28e77a6d-ee4f-46b5-bde4-86fdbf91d878.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "e539572f-3ea0-4d88-8a44-59d5f3f6a28f",
+      "role": "user",
+      "content": "You are forgetting Check in to MOR Inc /hub run SS",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-11T11:54:53.682Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
